@@ -4,5 +4,8 @@ Rails.application.routes.draw do
 
   namespace :api do
     get "/ability", to: "ability#index"
+    get "/ability/:name", to: "ability#show"
+    get "/pokemon", to: "pokemon#index"
+    get "/pokemon/:name", to: "pokemon#show"
   end
 end
