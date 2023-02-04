@@ -1,15 +1,7 @@
 Rails.application.routes.draw do
-  get 'type/index'
-  get 'type/show'
-  get 'berry/index'
-  get 'berry/show'
-  get 'pokemon_species/index'
-  get 'pokemon_species/show'
-  get 'move/index'
-  get 'move/show'
   # Defines the root path route ("/")
   # root "articles#index"
-
+  root "pokemon#index"
   namespace :api do
     get "/ability", to: "ability#index"
     get "/ability/:name", to: "ability#show"
