@@ -4,7 +4,7 @@ module Api
       abilities = PokeApi::Client.ability
       render json: abilities
     end
-
+     
     def show
       ability = PokeApi::Client.ability(params[:name])
       render json: ability
