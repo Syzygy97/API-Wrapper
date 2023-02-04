@@ -2,31 +2,31 @@
 
 ## **ENDPOINTS**
 
-- **Pokemon**
+- ### **Pokemon** <br>
   How to Query?
   > http://localhost:3000/api/pokemon/{name-of-pokemon}
-- **Ability**
+- ### **Ability** <br>
   How to Query?
   > http://localhost:3000/api/ability/{name-of-ability}
-- **Item**
+- ### **Item** <br>
   How to Query?
   > http://localhost:3000/api/item/{name-of-item}
-- **Location**
+- ### **Location** <br>
   How to Query?
   > http://localhost:3000/api/location/{name-of-location}
-- **Region**
+- ### **Region** <br>
   How to Query?
   > http://localhost:3000/api/region/{name-of-region}
-- **Move**
+- ### **Move** <br>
   How to Query?
   > http://localhost:3000/api/move/{name-of-move}
-- **Pokemon-Species**
+- ### **Pokemon-Species** <br>
   How to Query?
   > http://localhost:3000/api/pokemon-species/{name-of-pokemon}
-- **Berry**
+- ### **Berry** <br>
   How to Query?
   > http://localhost:3000/api/berry/{name-of-berry}
-- **Type**
+- ### **Type** <br>
   How to Query?
   > http://localhost:3000/api/type/{name-of-type}
 
