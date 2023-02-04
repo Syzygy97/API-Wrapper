@@ -1,5 +1,15 @@
 # API Wrapper (PokeApi v2)
 
+Simplified interaction with [PokeApi](https://pokeapi.co/) with selected endpoints.
+
+## Ruby Version
+
+- Ruby 3.0.2p107
+
+## Rails Version
+
+- Rails 7.0.4.2
+
 ## **ENDPOINTS**
 
 - ### **Pokemon**
