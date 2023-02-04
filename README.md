@@ -16,7 +16,7 @@ Simplified interaction with [PokeApi](https://pokeapi.co/) with selected endpoin
 
 - ### **Pokemon**
   How to Query?
-  > <span>http://localhost:3000/api/pokemon/{name-of-pokemon}</span>
+  > http[]()://localhost:3000/api/pokemon/{name-of-pokemon}
 - ### **Ability**
   How to Query?
   > <span>http://localhost:3000/api/ability/{name-of-ability}</span>
