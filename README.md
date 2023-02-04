@@ -10,6 +10,8 @@ Simplified interaction with [PokeApi](https://pokeapi.co/) with selected endpoin
 
 - Rails 7.0.4.2
 
+## Installation
+
 ## **ENDPOINTS**
 
 - ### **Pokemon**
@@ -47,3 +49,9 @@ Simplified interaction with [PokeApi](https://pokeapi.co/) with selected endpoin
 > Example: _http://localhost:3000/api/pokemon/{arcanine}_
 
 ![pokemon-endpoint-example](/app/assets/images/pokemon-example-endpoint.png?raw=true)
+
+**Using** **_http://localhost:3000/api/ability/{name-of-ability}_**
+
+> Example: _http://localhost:3000/api/pokemon/{lightning-rod}_
+
+![ability-endpoint-example](/app/assets/images/ability-example-endpoint.png?raw=true)
