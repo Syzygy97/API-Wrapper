@@ -16,42 +16,42 @@ Simplified interaction with [PokeApi](https://pokeapi.co/) with selected endpoin
 
 - ### **Pokemon**
   How to Query?
-  > http://localhost:3000/api/pokemon/{name-of-pokemon}
+  > <span>http://localhost:3000/api/pokemon/{name-of-pokemon}</span>
 - ### **Ability**
   How to Query?
-  > http://localhost:3000/api/ability/{name-of-ability}
+  > <span>http://localhost:3000/api/ability/{name-of-ability}</span>
 - ### **Item**
   How to Query?
-  > http://localhost:3000/api/item/{name-of-item}
-- ### **Location**
+  > <span>http://localhost:3000/api/item/{name-of-item}</span>
+- ### **Location**</span>
   How to Query?
-  > http://localhost:3000/api/location/{name-of-location}
+  > <span>http://localhost:3000/api/location/{name-of-location}</span>
 - ### **Region**
   How to Query?
-  > http://localhost:3000/api/region/{name-of-region}
+  > <span>http://localhost:3000/api/region/{name-of-region}</span>
 - ### **Move**
   How to Query?
-  > http://localhost:3000/api/move/{name-of-move}
+  > <span>http://localhost:3000/api/move/{name-of-move}</span>
 - ### **Pokemon-Species**
   How to Query?
-  > http://localhost:3000/api/pokemon-species/{name-of-pokemon}
+  > <span>http://localhost:3000/api/pokemon-species/{name-of-pokemon}</span>
 - ### **Berry**
   How to Query?
-  > http://localhost:3000/api/berry/{name-of-berry}
+  > <span>http://localhost:3000/api/berry/{name-of-berry}</span>
 - ### **Type**
   How to Query?
-  > http://localhost:3000/api/type/{name-of-type}
+  > <span>http://localhost:3000/api/type/{name-of-type}</span>
 
 ## EXPECTED OUTPUT
 
-**Using** **_http://localhost:3000/api/pokemon/{name-of-pokemon}_**
+**Using** **_<span>http://localhost:3000/api/pokemon/{name-of-pokemon}</span>_**
 
-> Example: _http://localhost:3000/api/pokemon/{arcanine}_
+> Example: _<span>http://localhost:3000/api/pokemon/{arcanine}</span>_
 
 ![pokemon-endpoint-example](/app/assets/images/pokemon-example-endpoint.png?raw=true)
 
-**Using** **_http://localhost:3000/api/ability/{name-of-ability}_**
+**Using** **_<span>http://localhost:3000/api/ability/{name-of-ability}</span>_**
 
-> Example: _http://localhost:3000/api/pokemon/{lightning-rod}_
+> Example: _<span>http://localhost:3000/api/pokemon/{lightning-rod}</span>_
 
 ![ability-endpoint-example](/app/assets/images/ability-example-endpoint.png?raw=true)
