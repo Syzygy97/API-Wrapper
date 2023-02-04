@@ -12,7 +12,25 @@ Simplified interaction with [PokeApi](https://pokeapi.co/) with selected endpoin
 
 ## Installation
 
-## **ENDPOINTS**
+Clone the repository in your terminal.
+
+```
+git clone https://github.com/Syzygy97/API-Wrapper.git
+```
+
+Install all dependencies of the app using your terminal.
+
+```
+bundle install
+```
+
+Run the server in your terminal.
+
+```
+rails s
+```
+
+## **USAGE(endpoints)**
 
 - ### **Pokemon**
   How to Query?
