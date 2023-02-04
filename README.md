@@ -19,39 +19,39 @@ Simplified interaction with [PokeApi](https://pokeapi.co/) with selected endpoin
   > http[]()://localhost:3000/api/pokemon/{name-of-pokemon}
 - ### **Ability**
   How to Query?
-  > <span>http://localhost:3000/api/ability/{name-of-ability}</span>
+  > http[]()://localhost:3000/api/ability/{name-of-ability}
 - ### **Item**
   How to Query?
-  > <span>http://localhost:3000/api/item/{name-of-item}</span>
+  > http[]()://localhost:3000/api/item/{name-of-item}
 - ### **Location**</span>
   How to Query?
-  > <span>http://localhost:3000/api/location/{name-of-location}</span>
+  > http[]()://localhost:3000/api/location/{name-of-location}
 - ### **Region**
   How to Query?
-  > <span>http://localhost:3000/api/region/{name-of-region}</span>
+  > http[]()://localhost:3000/api/region/{name-of-region}
 - ### **Move**
   How to Query?
-  > <span>http://localhost:3000/api/move/{name-of-move}</span>
+  > http[]()://localhost:3000/api/move/{name-of-move}
 - ### **Pokemon-Species**
   How to Query?
-  > <span>http://localhost:3000/api/pokemon-species/{name-of-pokemon}</span>
+  > http[]()://localhost:3000/api/pokemon-species/{name-of-pokemon}
 - ### **Berry**
   How to Query?
-  > <span>http://localhost:3000/api/berry/{name-of-berry}</span>
+  > http[]()://localhost:3000/api/berry/{name-of-berry}
 - ### **Type**
   How to Query?
-  > <span>http://localhost:3000/api/type/{name-of-type}</span>
+  > http[]()://localhost:3000/api/type/{name-of-type}
 
 ## EXPECTED OUTPUT
 
-**Using** **_<span>http://localhost:3000/api/pokemon/{name-of-pokemon}</span>_**
+**Using** **_http[]()://localhost:3000/api/pokemon/{name-of-pokemon}_**
 
-> Example: _<span>http://localhost:3000/api/pokemon/{arcanine}</span>_
+> Example: _http[]()://localhost:3000/api/pokemon/{arcanine}_
 
 ![pokemon-endpoint-example](/app/assets/images/pokemon-example-endpoint.png?raw=true)
 
-**Using** **_<span>http://localhost:3000/api/ability/{name-of-ability}</span>_**
+**Using** **_http[]()://localhost:3000/api/ability/{name-of-ability}_**
 
-> Example: _<span>http://localhost:3000/api/pokemon/{lightning-rod}</span>_
+> Example: _<http[]()://localhost:3000/api/ability/{lightning-rod}_
 
 ![ability-endpoint-example](/app/assets/images/ability-example-endpoint.png?raw=true)
