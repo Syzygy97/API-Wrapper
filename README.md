@@ -1,24 +1,39 @@
-# README
+# API Wrapper (PokeApi v2)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## **ENDPOINTS**
 
-Things you may want to cover:
+- **Pokemon**
+  How to Query?
+  > http://localhost:3000/api/pokemon/{name-of-pokemon}
+- **Ability**
+  How to Query?
+  > http://localhost:3000/api/ability/{name-of-ability}
+- **Item**
+  How to Query?
+  > http://localhost:3000/api/item/{name-of-item}
+- **Location**
+  How to Query?
+  > http://localhost:3000/api/location/{name-of-location}
+- **Region**
+  How to Query?
+  > http://localhost:3000/api/region/{name-of-region}
+- **Move**
+  How to Query?
+  > http://localhost:3000/api/move/{name-of-move}
+- **Pokemon-Species**
+  How to Query?
+  > http://localhost:3000/api/pokemon-species/{name-of-pokemon}
+- **Berry**
+  How to Query?
+  > http://localhost:3000/api/berry/{name-of-berry}
+- **Type**
+  How to Query?
+  > http://localhost:3000/api/type/{name-of-type}
 
-* Ruby version
+## EXPECTED OUTPUT
 
-* System dependencies
+**Using** **_http://localhost:3000/api/pokemon/{name-of-pokemon}_**
 
-* Configuration
+> Example: _http://localhost:3000/api/pokemon/{arcanine}_
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![pokemon-endpoint-example](/app/assets/images/pokemon-example-endpoint.png?raw=true)
