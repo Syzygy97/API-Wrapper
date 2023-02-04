@@ -1,7 +1,6 @@
 Rails.application.routes.draw do
   # Defines the root path route ("/")
   # root "articles#index"
-  root "pokemon#index"
   namespace :api do
     get "/ability", to: "ability#index"
     get "/ability/:name", to: "ability#show"
